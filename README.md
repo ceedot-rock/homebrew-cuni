@@ -1,3 +1,7 @@
+> **This repo has moved into the verse.** Development continues at
+> [ceedot-rock/CuNIverse](https://github.com/ceedot-rock/CuNIverse), in folder homebrew/.
+> This copy is archived and read-only - history preserved, nothing lost.
+
 # homebrew-cuni
 
 [![audited checks](https://github.com/ceedot-rock/homebrew-cuni/actions/workflows/audited-checks.yml/badge.svg)](https://github.com/ceedot-rock/homebrew-cuni/actions/workflows/audited-checks.yml)
